@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/perfil/static/css/main.94a5dea8.css",
+    "main.js": "/perfil/static/js/main.3da9facd.js",
+    "static/media/fotoPerfil.png": "/perfil/static/media/fotoPerfil.8c6268148e0576aa3cf4.png",
+    "static/media/kinder.png": "/perfil/static/media/kinder.a4ce50c709e89ceaf12c.png",
+    "static/media/rick.png": "/perfil/static/media/rick.ee0728d37d964ffaa011.png",
+    "static/media/fondo103.jpg": "/perfil/static/media/fondo103.ff6b25566d2b0e0ef16a.jpg",
+    "static/media/cv.pdf": "/perfil/static/media/cv.6708a427cde55f45137f.pdf",
+    "static/media/fondotime.jpg": "/perfil/static/media/fondotime.9ca0d0f1ce1508a49bf9.jpg",
+    "static/media/stars.gif": "/perfil/static/media/stars.3f17b49a0edd171ec8b0.gif",
+    "static/media/portal.png": "/perfil/static/media/portal.a218ca229093de6f08d2.png",
+    "static/media/lifebold.ttf": "/perfil/static/media/lifebold.d8181e77e6ec9e166a12.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/perfil/static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
+    "static/media/contactos.png": "/perfil/static/media/contactos.de8685b9c48585da063f.png",
+    "static/media/react2.jpg": "/perfil/static/media/react2.dcdd3131760203a8bdd8.jpg",
+    "static/media/Bangers-Regular.ttf": "/perfil/static/media/Bangers-Regular.0e89a2279da24d283991.ttf",
+    "static/media/Quicksand-Light.ttf": "/perfil/static/media/Quicksand-Light.e715991b8e3173b8a2e5.ttf",
+    "static/media/calculadora.png": "/perfil/static/media/calculadora.08decc54761f820460ad.png",
+    "static/media/tailwind.png": "/perfil/static/media/tailwind.59977c053e7806607749.png",
+    "static/media/Koulen-Regular.ttf": "/perfil/static/media/Koulen-Regular.e23002c698c2632e9437.ttf",
+    "static/media/robot.png": "/perfil/static/media/robot.a42d658ef2a102d21657.png",
+    "static/media/css.png": "/perfil/static/media/css.abdc9d80a4d3bc585c3f.png",
+    "static/media/wordpress.png": "/perfil/static/media/wordpress.ecb2f7560867a748ae67.png",
+    "static/media/rick-morty.jpg": "/perfil/static/media/rick-morty.fb8fee435230150856d8.jpg",
+    "static/media/rick.ttf": "/perfil/static/media/rick.c3d1dfc692e3547fed16.ttf",
+    "static/media/sass.jpg": "/perfil/static/media/sass.97864938162408f2d014.jpg",
+    "static/media/todolist2.png": "/perfil/static/media/todolist2.bc6217f426791b60a370.png",
+    "static/media/load.jpg": "/perfil/static/media/load.264a2e813c269538df78.jpg",
+    "static/media/typescript.jpg": "/perfil/static/media/typescript.7486ad41d8bd4a1223ab.jpg",
+    "static/media/bootstrap1.jpg": "/perfil/static/media/bootstrap1.b54b7a80961cd64694a7.jpg",
+    "static/media/step11.png": "/perfil/static/media/step11.bdba2290f0df8eb7cc4c.png",
+    "static/media/html.jpg": "/perfil/static/media/html.3fd7989e88cf7e3e0fe1.jpg",
+    "index.html": "/perfil/index.html",
+    "main.94a5dea8.css.map": "/perfil/static/css/main.94a5dea8.css.map",
+    "main.3da9facd.js.map": "/perfil/static/js/main.3da9facd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a5dea8.css",
+    "static/js/main.3da9facd.js"
+  ]
+}
